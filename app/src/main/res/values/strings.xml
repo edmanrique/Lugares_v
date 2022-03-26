@@ -51,4 +51,17 @@
     <string name="msg_firebase_no_delete">ERROR: Lugar no eliminado</string>
     <string name="error">Error</string>
 
+    <string name="msg_graba_pausa">Graba o pausa grabación</string>
+    <string name="msg_escucha_audio">Escucha nota de audio</string>
+    <string name="msg_delete_nota">Borrar nota de audio</string>
+    <string name="msg_rec_stop_nota">Graba o detiene nota de audio</string>
+    <string name="msg_take_photo">Toma la foto</string>
+    <string name="msg_rotate_l">Rota a la izquierda</string>
+    <string name="msg_rotate_r">Rota a la derecha</string>
+    <string name="msg_graba_audio">Grabando nota de audio</string>
+    <string name="msg_detener_audio">Nota de audio detenida</string>
+    <string name="msg_subiendo_audio">Subiendo nota de audio</string>
+    <string name="msg_subiendo_imagen">Subiendo imagen</string>
+    <string name="todo">Aplicar</string>
+
 </resources>
