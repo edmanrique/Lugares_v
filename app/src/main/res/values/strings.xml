@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Lugares</string>
+    <string name="app_name" translatable="false">Lugares</string>
     <string name="tv_correo">Correo</string>
     <string name="tv_clave">Contraseña</string>
 
@@ -63,5 +63,6 @@
     <string name="msg_subiendo_audio">Subiendo nota de audio</string>
     <string name="msg_subiendo_imagen">Subiendo imagen</string>
     <string name="todo">Aplicar</string>
+    <string name="default_web_client_id_r" translatable="false">50022942622-90juvokhbaaqsofq6c1vcln9leuie2da.apps.googleusercontent.com</string>
 
 </resources>

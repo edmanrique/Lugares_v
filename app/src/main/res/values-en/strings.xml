@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tv_correo">eMail</string>
+    <string name="tv_clave">Password</string>
+
+    <string name="title_activity_principal">Main</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_lugar">Lugares</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="msg_nombre">Enter the name of the place</string>
+    <string name="msg_imagen">Image of the place</string>
+    <string name="msg_correo">Enter your email</string>
+    <string name="msg_telefono">Phone</string>
+    <string name="msg_web">Website</string>
+    <string name="msg_agregado">Place added</string>
+    <string name="msg_actualizado">Place updated</string>
+
+    <string name="bt_agregar">Add place</string>
+    <string name="bt_actualizar">Update place</string>
+    <string name="menu_delete">Delete place</string>
+    <string name="si">Yes</string>
+    <string name="msg_seguro">Are you sure you want to delete </string>
+    <string name="no">No</string>
+
+    <string name="msg_enviar_correo">Send email</string>
+    <string name="msg_phone_call">Phone call</string>
+    <string name="msg_whatsapp_send">Send WhatsApp message</string>
+    <string name="msg_web_view">Open Website</string>
+    <string name="msg_map_view">See place on map</string>
+    <string name="tv_latitud_lb">Latitude</string>
+    <string name="tv_longitud_lb">Longitude</string>
+    <string name="tv_altura_lb">Altitude</string>
+    <string name="msg_saludos">Greetings friends</string>
+    <string name="msg_mensaje_correo">I am writing this email to you</string>
+    <string name="msg_datos">Missing data</string>
+    <string name="msg_firebase_add">Place added</string>
+    <string name="msg_firebase_update">Place updated</string>
+    <string name="msg_firebase_delete">Place deleted</string>
+    <string name="msg_firebase_no_add">ERROR: Place no added</string>
+    <string name="msg_firebase_no_update">ERROR: Place no updated</string>
+    <string name="msg_firebase_no_delete">ERROR: Place no deleted</string>
+    <string name="error">Error</string>
+
+    <string name="msg_graba_pausa">Record or pause recording</string>
+    <string name="msg_escucha_audio">Listen audio note</string>
+    <string name="msg_delete_nota">Delete audio note</string>
+    <string name="msg_rec_stop_nota">Record or pause audio note</string>
+    <string name="msg_take_photo">Take picture</string>
+    <string name="msg_rotate_l">Turn left</string>
+    <string name="msg_rotate_r">Turn right</string>
+    <string name="msg_graba_audio">Recording audio note</string>
+    <string name="msg_detener_audio">audio note stopped</string>
+    <string name="msg_subiendo_audio">Uploading audio note</string>
+    <string name="msg_subiendo_imagen">Uploading image</string>
+    <string name="todo">Apply</string>
+</resources>

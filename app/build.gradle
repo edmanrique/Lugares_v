@@ -72,4 +72,7 @@ dependencies {
     implementation 'com.github.bumptech.glide:glide:4.12.0'
     implementation 'jp.wasabeef:glide-transformations:4.1.0'
 
+    //Para la autenticación de Google
+    implementation 'com.google.android.gms:play-services-auth:20.1.0'
+
 }
